@@ -32,7 +32,8 @@ Detailed explanations, usage instructions, source code, and version histories wi
   - Activity: Started studying and implementing the algorithm.
   - Source Code: [`train_test_split.py`](dat_ml/model_selection/train_test_split.py)
   - Test: [`train_test_split.py`](test_case/model_selection/train_test_split.py)
-  - Documentation: Not yet available.
+  - [`Theory`](docs/theory/model_selection/train_test_split.md)
+  - [`Implementation`](docs/implementation/model_selection/train_test_split.md)
 
 
 ---
