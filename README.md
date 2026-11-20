@@ -28,13 +28,17 @@ Detailed explanations, usage instructions, source code, and version histories wi
 
 ### 17/11/2026
 
-- **Model Selection — Train Test Split (v1)**
-  - Activity: Started studying and implementing the algorithm.
+- **Model Selection — Train Test Split**
   - Source Code: [`train_test_split.py`](dat_ml/model_selection/train_test_split.py)
   - Test: [`train_test_split.py`](test_case/model_selection/train_test_split.py)
   - [`Theory`](docs/theory/model_selection/train_test_split.md)
   - [`Implementation`](docs/implementation/model_selection/train_test_split.md)
 
+- **Linear Model — LinearRegression**
+  - Source Code: [`LinearRegression.py`](dat_ml/linear_model/LinearRegression.py)
+  - Test: [`LinearRegression.py`](test_case/linear_model/linearRegression.py)
+  - [`Theory`](docs/theory/linear_model/linear_regression.md)
+  - [`Implementation`](docs/implementation/linear_model/linear_regression.md)
 
 ---
 
